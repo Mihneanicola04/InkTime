@@ -61,14 +61,7 @@ In cadrul procesului de dezvoltare (EVT/DVT), s-au luat urmatoarele decizii tehn
 * `/Manufacturing`: Fisiere Gerber, BOM si Pick and Place.
 * `/Mechanical`: Modele 3D (STEP/Exploded view) si asamblarea in Fusion360.
 * `/Images`: Randari ale produsului finit si ale PCB-ului.
-
 ---
 
-## 6. Randari
-![Randare PCB](Images/render_pcb.png)
-![Randare Dispozitiv](Images/render_device.png)
-
----
-
-## 7. Licenta
+## 6   . Licenta
 Acest proiect este licentiat sub [Apache License 2.0](LICENSE).
